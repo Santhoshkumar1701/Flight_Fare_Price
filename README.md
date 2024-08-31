@@ -1,4 +1,4 @@
-# Flight Price Prediction Web App
+# Flight Fare Price Prediction Web App
 
 This s is a web application built using Flask and machine learning (Random Forest) to predict flight prices based on various input parameters such as travel date, departure time, arrival time, number of stops, airline, source, and destination.
 
